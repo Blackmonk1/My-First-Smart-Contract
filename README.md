@@ -1,3 +1,2 @@
 # My-First-Smart-Contract
-A Simple Storage Smart Contract with Solidity`
-A Simple Voting Smart Contract
+A list of smart contracts with solidity
